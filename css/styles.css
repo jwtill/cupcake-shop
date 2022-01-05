@@ -1,0 +1,21 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: pink;
+  font-size: large;
+}
+
+img {
+  max-width: 25%;
+}
+
+body {
+  background-color: yellowgreen;
+}
+
+li {
+  display:inline;
+}
